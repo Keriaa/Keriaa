@@ -2,6 +2,8 @@
 
 // PICTURE //
 
+<i>
 - I am currently taking Diploma in Information Technology in Polytechnic University of the Philippines.
-- PLanning to study machine learning and Data Science.
+- Planning to study machine learning and Data Science.
 - 
+</i>
